@@ -8,3 +8,9 @@ The directories are numbered from 0 upwards in the order they were written. In a
 
 Enjoy.
 
+## Notes
+
+I found this video from Gopherfest 2015 on Go Proverbs from Rob Pike very interesting.  
+https://www.youtube.com/watch?v=PAAkCSZUG1c  
+It gave some good insights into the culture behind Go
+
