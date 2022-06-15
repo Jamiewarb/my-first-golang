@@ -14,3 +14,5 @@ I found this video from Gopherfest 2015 on Go Proverbs from Rob Pike very intere
 https://www.youtube.com/watch?v=PAAkCSZUG1c  
 It gave some good insights into the culture behind Go
 
+On Error Handling, Rob Pike also wrote this article titled "Errors are Values": https://go.dev/blog/errors-are-values
+
